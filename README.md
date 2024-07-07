@@ -14,7 +14,7 @@ The page is broken into segments, each of which pertain to a specific language/c
 
 ## Credits
 
-N/A
+todayevilnesswon.jpg taken from https://x.com/hopes_revenge/status/1804219395708965238?s=46&t=-7ZXdQZhfYm2Z1-Fqt3SQA
 
 ## License
 
